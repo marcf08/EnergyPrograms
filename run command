@@ -1,0 +1,5 @@
+streamlit hello --server.enableCORS false --server.enableXsrfProtection false
+
+pip install openai
+pip install spacy
+
