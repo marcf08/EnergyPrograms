@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 streamlit = "*"
+geocoder = "*"
 
 [dev-packages]
 geocoder = "*"
